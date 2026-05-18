@@ -22,7 +22,7 @@ A modern and responsive personal portfolio website built using HTML and CSS.
 
 ## 📂 Project Structure
 
-portfolio-website/
+TASK1/
 │
 ├── index.html
 ├── Rohini_M.pdf
