@@ -34,11 +34,11 @@ Add a screenshot of your project here.
 Add your deployed website link here.
 
 Example:
-https://yourusername.github.io/portfolio-website/
+https://medak-rohini13.github.io/portfolio-website/
 
 ## 🔗 GitHub Repository
 
-https://github.com/yourusername/portfolio-website
+https://github.com/medak-rohini13/portfolio-website
 
 ## 👩‍💻 Author
 
