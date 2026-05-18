@@ -1,4 +1,4 @@
-# portfolio-website
+
 # Personal Portfolio Website
 
 A modern and responsive personal portfolio website built using HTML and CSS.
@@ -27,7 +27,8 @@ portfolio/
 
 ## 📸 Preview
 
-Add a screenshot of your project here.
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/677f6993-93b3-49f8-a69d-ea8605cade23" />
+
 
 ## 🔗 Live Demo
 
@@ -47,4 +48,4 @@ M Rohini
 ## 📬 Contact
 
 - LinkedIn: https://www.linkedin.com/in/mrohini/
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/medak-rohini13
